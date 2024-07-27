@@ -1,6 +1,6 @@
 
 Hangman Game
-This is a text-based version of the classic Hangman game implemented in Python. The game selects a random word from a predefined list and allows users to guess letters. The goal is to guess the entire word before running out of tries.
+The game selects a random word from a predefined list and allows users to guess letters. The goal is to guess the entire word before running out of tries.
 
 How to Play
 Start the Game: Run the script and the game will start by selecting a random word from a predefined list.
