@@ -1,5 +1,5 @@
 
-Hangman Game
+Hangman Game:
 The game selects a random word from a predefined list and allows users to guess letters. The goal is to guess the entire word before running out of tries.
 
 How to Play
